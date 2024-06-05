@@ -14,3 +14,8 @@ void printPersonWeight(Person p)
 {
 	cout << "Вес: " << p.weight << endl;
 }
+
+void printPersonRost(Person p)
+{
+	cout << "Рост: " << p.rost << endl;
+}
